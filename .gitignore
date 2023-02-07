@@ -233,3 +233,8 @@ poetry.toml
 
 .virtual_documents
 runs
+
+data
+wandb
+yolov8n.pt
+yolov8n.onnx
